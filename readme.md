@@ -21,32 +21,6 @@
 
 AWS | Docker🐳 | DAX | Hadoop
 
-
-```julia
-module main
-
-aboutMe :: struct {
-  pronouns :: string[];
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
-}
-
-main :: func(): void {
-  ethan :: aboutMe = {
-    pronouns: ["He", "Him"],
-    languages: ["Python", "SQL", "Java", "C"],
-    hobbies: ["Classical Piano", "Board Games", "Scouts"],
-    funFact: "I learned MS Excel when I was 5 years old!"
-  };
-
-  println "Pronouns: ${elia.pronouns}";
-  println "Languages I Know: ${elia.languages}";
-  println "My Hobbies: ${elia.hobbies}";
-  println "Fun Fact: ${elia.funFact}";
-}
-```
-
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
