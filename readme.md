@@ -15,8 +15,9 @@
 💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
 🌐   HTML | Flask 
 
-🛠 To Learn
-🔧   AWS | Docker🐳 | DAX | Hadoop
+🛠 To Learn:
+
+AWS | Docker🐳 | DAX | Hadoop
 
 
 ```julia
@@ -34,7 +35,7 @@ main :: func(): void {
     pronouns: ["He", "Him"],
     languages: ["Python", "SQL", "Java", "C"],
     hobbies: ["Classical Piano", "Board Games", "Scouts"],
-    funFact: "I leart MS Excel when I was 5 years old!"
+    funFact: "I learned MS Excel when I was 5 years old!"
   };
 
   println "Pronouns: ${elia.pronouns}";
