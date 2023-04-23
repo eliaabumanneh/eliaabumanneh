@@ -1,15 +1,16 @@
 # Hello, I'm Elia!
 
-  👨🏻•💻 About Me
 
+  👨🏻•💻 About Me
+```julia
   ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau
 
   🤔   Exploring advanced data analytics using Python and machine learning to develop innovative solutions.
 
-  🎓   Studied Engineering at McGill. Pursuing a part-time Master of Analyics at Georgia Tech!
+  🎓   Studied Engineering at McGill. Pursuing a part-time Master of Analytics at Georgia Tech!
 
   🌱   Currently Learning Pytorch, Azure!
-
+```
 
 🛠 Tech Stack
 
