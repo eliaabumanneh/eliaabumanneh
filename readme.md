@@ -4,7 +4,7 @@
 ```julia
   ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau
 
-  🤔   Exploring advanced data analytics using Python and machine learning to develop innovative solutions.
+  🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
   🎓   Studied Engineering at McGill. Pursuing a part-time Master of Analytics at Georgia Tech!
 
