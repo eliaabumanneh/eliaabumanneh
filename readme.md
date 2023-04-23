@@ -1,7 +1,6 @@
 # Hello, I'm Elia!
 
-
-  👨🏻•💻 About Me
+  💻 About Me
 ```julia
   ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau
 
@@ -20,7 +19,7 @@
 🛠 To Learn:
 
     AWS | Docker🐳 | DAX | Hadoop
-
+    
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - Introductory Pytorch Project
