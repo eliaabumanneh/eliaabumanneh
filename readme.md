@@ -12,6 +12,7 @@
 
 
 🛠 Tech Stack
+
 💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
 🌐   HTML | Flask 
 
