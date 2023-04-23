@@ -13,8 +13,8 @@
 
 🛠 Tech Stack
 
-*Tabspace* 💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
-  🌐   HTML | Flask 
+emsp 💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
+emsp 🌐   HTML | Flask 
 
 🛠 To Learn:
 
