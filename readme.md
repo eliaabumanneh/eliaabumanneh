@@ -21,10 +21,10 @@ main :: func(): void {
     funFact: "I leart MS Excel when I was 5 years old!"
   };
 
-  println "Pronouns: ${ethan.pronouns}";
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${ethan.hobbies}";
-  println "Fun Fact: ${ethan.funFact}";
+  println "Pronouns: ${elia.pronouns}";
+  println "Languages I Know: ${elia.languages}";
+  println "My Hobbies: ${elia.hobbies}";
+  println "Fun Fact: ${elia.funFact}";
 }
 ```
 
