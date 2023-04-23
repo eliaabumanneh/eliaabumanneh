@@ -19,36 +19,12 @@
 
 🛠 To Learn:
 
-AWS | Docker🐳 | DAX | Hadoop
-
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
-<table>
-  <tbody>
-    <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    <td width="25%" align="center">
-      <span>𝗖</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-    </td>
-    <td width="25%" align="center">
-      <span>𝗚𝗶𝘁</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-    </td>
-    <td width="25%" align="center">
-      <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-    </td>
-  </tbody>
-</table>
+    AWS | Docker🐳 | DAX | Hadoop
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - Introductory Pytorch Project
 - Azure AZ-900 certification
-
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
