@@ -1,24 +1,24 @@
 # Hello, I'm Elia!
 
-👨🏻•💻 About Me
+  👨🏻•💻 About Me
 
-✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau
+  ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau
 
-🤔   Exploring advanced data analytics using Python and machine learning to develop innovative solutions.
+  🤔   Exploring advanced data analytics using Python and machine learning to develop innovative solutions.
 
-🎓   Studied Engineering at McGill. Pursuing a part-time Master of Analyics at Georgia Tech!
+  🎓   Studied Engineering at McGill. Pursuing a part-time Master of Analyics at Georgia Tech!
 
-🌱   Currently Learning Pytorch, Azure!
+  🌱   Currently Learning Pytorch, Azure!
 
 
 🛠 Tech Stack
 
-💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
-🌐   HTML | Flask 
+  💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
+  🌐   HTML | Flask 
 
 🛠 To Learn:
 
-AWS | Docker🐳 | DAX | Hadoop
+  AWS | Docker🐳 | DAX | Hadoop
 
 
 ```julia
