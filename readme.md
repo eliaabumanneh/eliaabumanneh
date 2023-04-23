@@ -13,12 +13,12 @@
 
 🛠 Tech Stack
 
-emsp 💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
-emsp 🌐   HTML | Flask 
+    💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
+    🌐   HTML | Flask 
 
 🛠 To Learn:
 
-  AWS | Docker🐳 | DAX | Hadoop
+AWS | Docker🐳 | DAX | Hadoop
 
 
 ```julia
