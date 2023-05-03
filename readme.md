@@ -8,7 +8,7 @@
 
   🎓   Studied Engineering at McGill. Pursuing an online part-time Master of Analytics at Georgia Tech in the fall!
 
-  🌱   Currently Learning Pytorch, Azure!
+  🌱   Currently Learning Pytorch, Azure AZ-900 and DP-203!
 ```
 
 🛠 Tech Stack
