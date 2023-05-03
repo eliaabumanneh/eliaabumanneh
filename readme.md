@@ -6,7 +6,7 @@
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
-  🎓   Studied Engineering at McGill. Pursuing a part-time Master of Analytics at Georgia Tech!
+  🎓   Studied Engineering at McGill. Pursuing an online part-time Master of Analytics at Georgia Tech in the fall!
 
   🌱   Currently Learning Pytorch, Azure!
 ```
