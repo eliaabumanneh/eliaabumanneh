@@ -2,13 +2,13 @@
 
   💻 About Me
 ```julia
-  ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau
+  ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau, AZ-900
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
   🎓   Studied Engineering at McGill. Pursuing an online part-time Master of Analytics at Georgia Tech in the fall!
 
-  🌱   Currently Learning Pytorch, Azure AZ-900 and DP-203!
+  🌱   Currently Learning Pytorch, Azure DP-203!
 ```
 
 🛠 Tech Stack
