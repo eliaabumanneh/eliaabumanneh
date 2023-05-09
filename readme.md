@@ -23,7 +23,7 @@
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - Introductory Pytorch Project
-- Azure AZ-900 certification
+- AWS Certified Cloud Practitioner Exam
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
