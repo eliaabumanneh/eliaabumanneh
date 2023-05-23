@@ -8,7 +8,7 @@
 
   🎓   Studied Engineering at McGill. Pursuing an online part-time Master of Analytics at Georgia Tech in the fall!
 
-  🌱   Currently Learning Pytorch, Azure DP-203!
+  🌱   Currently Learning Pytorch, DAX!
 ```
 
 🛠 Tech Stack
@@ -23,7 +23,7 @@
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - Introductory Pytorch Project
-- AWS Certified Cloud Practitioner Exam
+- AWS SAA 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
