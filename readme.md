@@ -2,7 +2,7 @@
 
   💻 About Me
 ```julia
-  ✍️   Seeking Full-Time Data Analytics Role | SQL, Python, PowerBI, Tableau, AZ-900
+  ✍️   Seeking Full-Time Data Role | SQL, Python, PowerBI, Tableau
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
