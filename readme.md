@@ -2,23 +2,23 @@
 
   💻 About Me
 ```julia
-  ✍️   Seeking Full-Time Data Role | SQL, Python, PowerBI, Tableau
+  ✍️   Data Analyst | SQL, Python, PowerBI, Tableau
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
-  🎓   Studied Engineering at McGill. Completed a Data Science Diploma at Concordia university.
+  🎓   Studied Engineering at McGill. Completed a Data Science Diploma at Concordia university. Part-time Masters Student at Georgia Tech!
 
   🌱   Currently Learning Pytorch, DAX!
 ```
 
 🛠 Tech Stack
 
-    💻   Python | Java | MySQL | PowerBI | Tableau | Pyspark
+    💻   Python | Java | MySQL | PowerBI | Tableau | AWS
     🌐   HTML | Flask 
 
 🛠 To Learn:
 
-    AWS | Docker🐳 | DAX | Hadoop
+    Pyspark | Docker🐳 | DAX | Hadoop
     
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
