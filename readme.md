@@ -6,15 +6,14 @@
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
-  🎓   Studied Engineering at McGill. Completed a Data Science Diploma at Concordia university. Part-time Masters Student at Georgia Tech!
+  🎓   Studied Engineering at McGill & Masters of Analytics at Georgia Institute of Technology
 
   🌱   Currently Learning Pytorch, DAX!
 ```
 
 🛠 Tech Stack
 
-    💻   Python | Java | MySQL | PowerBI | Tableau | AWS
-    🌐   HTML | Flask 
+    💻   Python | MySQL | Tableau
 
 🛠 To Learn:
 
@@ -22,8 +21,8 @@
     
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- Introductory Pytorch Project
-- AWS SAA 
+- Hierometafrastis: An image-recognition hieroglyphics translator
+- Azure DP700 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
