@@ -6,7 +6,7 @@
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
-  🎓   Studied Engineering at McGill & Masters of Analytics at Georgia Institute of Technology
+  🎓   Masters of Analytics at the Georgia Institute of Technology, Bachelor's of Engineering from McGill University
 
   🌱   Currently Learning Pytorch, DAX!
 ```
