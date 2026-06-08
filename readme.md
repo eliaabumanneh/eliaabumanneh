@@ -2,13 +2,13 @@
 
   💻 About Me
 ```julia
-  ✍️   Data Analyst | SQL, Python, PowerBI, Tableau
+  ✍️   Data Scientist | SQL, Python, PowerBI, Tableau
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
   🎓   Masters of Analytics at the Georgia Institute of Technology, Bachelor's of Engineering from McGill University
 
-  🌱   Currently Learning Pytorch, DAX!
+  🌱   Currently tinkering with Claude Code
 ```
 
 🛠 Tech Stack
