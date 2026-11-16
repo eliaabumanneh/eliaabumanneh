@@ -2,7 +2,7 @@
 
   💻 About Me
 ```julia
-  ✍️   Senior Data Scientist @ RBC
+  ✍️   Senior Data Scientist working in Fintech/Banking solving Fraud ML problems
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
