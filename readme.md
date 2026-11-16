@@ -2,27 +2,18 @@
 
   💻 About Me
 ```julia
-  ✍️   Data Scientist | SQL, Python, PowerBI, Tableau
+  ✍️   Senior Data Scientist @ RBC
 
   🤔   Exploring advanced data analytics using Python and machine learning algorithms to develop innovative solutions.
 
   🎓   Masters of Analytics at the Georgia Institute of Technology, Bachelor's of Engineering from McGill University
 
-  🌱   Currently tinkering with Claude Code
+  🌱   Currently tinkering with AI Alignment Research using AI Agent simulation
 ```
 
 🛠 Tech Stack
 
-    💻   Python | MySQL | Tableau
-
-🛠 To Learn:
-
-    Pyspark | Docker🐳 | DAX | Hadoop
-    
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- Hierometafrastis: An image-recognition hieroglyphics translator
-- Azure DP700 
+    💻   Python | MySQL | Tableau | PySpark
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
